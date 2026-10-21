@@ -1,0 +1,13 @@
+node_modules/
+.npm-cache/
+.next/
+.vercel/
+.env*
+!.env.example
+.data/
+*.tsbuildinfo
+test-results/
+.playwright-mcp/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
